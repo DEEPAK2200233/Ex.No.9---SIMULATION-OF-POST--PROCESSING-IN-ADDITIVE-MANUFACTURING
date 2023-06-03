@@ -47,11 +47,13 @@
 
 ## Output:
 ![2023-06-03 (4) - Copy](https://github.com/DEEPAK2200233/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707676/258f0b42-a949-4a4d-8c3b-8f74cf04ddd5)
+![2023-06-03 (5) - Copy](https://github.com/DEEPAK2200233/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707676/219bd140-d268-4c6a-8805-9cacc256d904)
+![2023-06-03 (6) - Copy](https://github.com/DEEPAK2200233/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707676/da904cc7-2460-46d6-b20e-7d40b16de980)
 
 
 ### Name:
-
+DEEPAK RAJ S
 ### Register Number:
-
+212222240023
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
