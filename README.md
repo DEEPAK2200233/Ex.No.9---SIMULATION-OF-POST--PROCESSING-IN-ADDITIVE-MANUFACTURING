@@ -46,8 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![2023-06-03 (4) - Copy](https://github.com/DEEPAK2200233/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707676/258f0b42-a949-4a4d-8c3b-8f74cf04ddd5)
+
 
 ### Name:
+
 ### Register Number:
 
 ## Result: 
